@@ -18,7 +18,7 @@ const Contact = () => {
       });
 
       if (response.ok) {
-        setMessage("Thank you for contacting us!");
+        setMessage("Thanks for joining the Tribe, check your email and await our launch 🚀");
         setEmail(""); // Clear the input field after successful submission
       } else {
         setMessage("Oops! Something went wrong. Please try again.");

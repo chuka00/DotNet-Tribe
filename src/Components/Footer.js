@@ -23,7 +23,7 @@ const Footer = () => {
           <span>Meet the Tribe Leaders</span>
         <div className="footer-links">
         <div className="tribe-icons">
-          <span><a href="https://www.linkedin.com/in/kenechukwu-egwunwoke/" style={{color: 'white'}}><SiLinkedin />KC Kingsley</a></span>
+          <span><a href="https://www.linkedin.com/in/kenechukwu-egwunwoke/" style={{color: 'white'}}><SiLinkedin />KCM</a></span>
           <span><a href="https://www.linkedin.com/in/victor-ogbodo/" style={{color: 'white'}}><SiLinkedin />Victor Ogbodo</a></span>
           <span><a href="https://www.linkedin.com/in/davidukpoju/" style={{color: 'white'}}><SiLinkedin />David Ukpoju</a></span>
         </div>
