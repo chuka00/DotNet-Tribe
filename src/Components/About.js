@@ -26,7 +26,7 @@ const About = () => {
       <div className="about-section-text-container">
         <h1
           className="primary-heading"
-          style={{ textAlign: "center", justifyContent: "center" }}
+          style={{ textAlign: "right", justifyContent: "right" }}
         >
           Who We Are
         </h1>
