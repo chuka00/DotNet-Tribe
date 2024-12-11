@@ -67,7 +67,7 @@ const Contact = () => {
           to_email: email,
           to_name: name,
           reply_to: "egwunwokekc@gmail.com",
-          subject: "Welcome to DotTribe!"
+          subject: "Welcome to DotNetTribe Africa!"
         }
       );
 
